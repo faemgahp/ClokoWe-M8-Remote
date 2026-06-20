@@ -1,0 +1,71 @@
+Filetype: IR signals file
+Version: 1
+#
+# ClokoWe M8 Projector
+# Built via brute force IR hunting - June 2026
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 87 78 00 00
+#
+name: MUTE
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 58 A7 00 00
+#
+name: VOL+
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 89 76 00 00
+#
+name: VOL-
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: B5 4A 00 00
+#
+name: Up
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: BB 44 00 00
+#
+name: Down
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 8D 72 00 00
+#
+name: Right
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 8E 71 00 00
+#
+name: OK
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: B2 4D 00 00
+#
+name: Menu
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 86 79 00 00
+#
+name: Settings
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 8A 75 00 00
+#
+name: Source
+type: parsed
+protocol: NECext
+address: 08 16 00 00
+command: 08 F7 00 00

@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/ClokoWe_M8_Final.ir
+UP: Up
+DOWN: Down
+LEFT: Menu
+RIGHT: Right
+OK: OK
+BACK: Menu
+UPHOLD: VOL+
+DOWNHOLD: VOL-
+LEFTHOLD: MUTE
+RIGHTHOLD: Source
+OKHOLD: POWER
