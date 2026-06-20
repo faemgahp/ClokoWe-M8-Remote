@@ -40,16 +40,16 @@ Back    Tap: Menu         Hold: Exit App
 
 INSTALLATION
 
-Step 1 — Copy the IR signal file
+Step 1: Copy the IR signal file
 Place ClokoWe_M8_Final.ir in:
 SD Card/infrared/
 
-Step 2 — Copy the remote layout file
+Step 2: Copy the remote layout file
 Place ClokoWe_M8_Remote.txt in:
 SD Card/infrared/remote/
 If the remote folder doesn't exist, create it.
 
-Step 3 — Access via IR Remote app
+Step 3: Access via IR Remote app
 The remote will appear inside the IR Remote app on your Flipper under Apps.
 
 
