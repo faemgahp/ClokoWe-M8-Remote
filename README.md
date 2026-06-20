@@ -14,9 +14,9 @@ IR SIGNAL MAP
 All signals use protocol NECext with device address 08 16 00 00.
 
 POWER    | 87 78 | Toggles on and off
-MUTE     | 58 A7 |
-VOL+     | 89 76 |
-VOL-     | B5 4A |
+MUTE     | 58 A7 | Mutes Volume
+VOL+     | 89 76 | Increases Volume
+VOL-     | B5 4A | Decrease Volume
 Up       | BB 44 | Navigation
 Down     | 8D 72 | Navigation
 Right    | 8E 71 | Navigation
